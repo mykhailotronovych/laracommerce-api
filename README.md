@@ -147,15 +147,3 @@ php artisan storage:link
 Complete REST API Documentation can be found <a href="https://documenter.getpostman.com/view/25234064/2s93JnUSRS">here</a>
 </p>
 
-
-## License
-
-> Copyright (C) 2023 Muhammad Habib Fery.  
-**[⬆ back to top](#laracommerce-rest-api)**
-
-[Admin Panel Features]:#admin-panel-features
-[Requirements]:#requirements
-[Install]:#install
-[How to setting]:#how-to-setting
-[API Docs]:#api-docs
-[License]:#license
